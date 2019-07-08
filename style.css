@@ -19,7 +19,7 @@ body {
 .nav  {
     display: flex;
     flex-direction: row;
-    width: 40vw;
+    width: 30vw;
     padding: 5px;
     background-color: #d4eacf;
     border-radius: 500px;
@@ -76,7 +76,7 @@ h2 {
 
 .top-links > a {
     font-family: "Heebo";
-    font-size: 1.5vw;
+    font-size: 1.2em;
 }
 
 .main-section {
@@ -100,6 +100,7 @@ p {
 .subsection > img {
     float: right;
     margin-left: 10px;
+    width: 250px;
 }
 
 a {
@@ -111,4 +112,44 @@ a {
     margin-top: 20px;
     display: flex;
     justify-content: space-around;
+}
+
+#me0 {
+    width: 200px;
+    border-radius: 50%;
+}
+
+#bca-img {
+    width: 300px;
+}
+
+#projects > figure > a > img {
+    width: 300px;
+}
+
+#projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+figcaption {
+    font-family: "Heebo";
+    text-align: center;
+}
+
+h3 {
+    font-family: "Heebo"
+}
+
+textarea, input {
+    font-family: "Heebo";
+}
+
+form {
+    text-align: center;
+}
+
+textarea {
+    margin-top: 3px;
 }
