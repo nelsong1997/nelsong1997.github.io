@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/nelsong1997.github.io/static/js/main.46216a71.chunk.js",
+    "main.js.map": "/nelsong1997.github.io/static/js/main.46216a71.chunk.js.map",
+    "runtime-main.js": "/nelsong1997.github.io/static/js/runtime-main.8ef806c6.js",
+    "runtime-main.js.map": "/nelsong1997.github.io/static/js/runtime-main.8ef806c6.js.map",
+    "static/js/2.cc22d273.chunk.js": "/nelsong1997.github.io/static/js/2.cc22d273.chunk.js",
+    "static/js/2.cc22d273.chunk.js.map": "/nelsong1997.github.io/static/js/2.cc22d273.chunk.js.map",
+    "index.html": "/nelsong1997.github.io/index.html",
+    "precache-manifest.1a8af25a173b3a386b4e22502dfd6bc1.js": "/nelsong1997.github.io/precache-manifest.1a8af25a173b3a386b4e22502dfd6bc1.js",
+    "service-worker.js": "/nelsong1997.github.io/service-worker.js",
+    "static/js/2.cc22d273.chunk.js.LICENSE.txt": "/nelsong1997.github.io/static/js/2.cc22d273.chunk.js.LICENSE.txt",
+    "static/media/sick_face.svg": "/nelsong1997.github.io/static/media/sick_face.5f93c0fb.svg",
+    "static/media/smile_face.svg": "/nelsong1997.github.io/static/media/smile_face.0a29229c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ef806c6.js",
+    "static/js/2.cc22d273.chunk.js",
+    "static/js/main.46216a71.chunk.js"
+  ]
+}
