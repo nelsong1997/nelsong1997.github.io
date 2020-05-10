@@ -1,0 +1,21 @@
+{
+  "name": "nelsong1997.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "start index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsong1997/nelsong1997.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsong1997/nelsong1997.github.io/issues"
+  },
+  "homepage": "https://github.com/nelsong1997/nelsong1997.github.io#readme"
+}
